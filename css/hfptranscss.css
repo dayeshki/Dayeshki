@@ -1,0 +1,7 @@
+body{
+    background-image:url(hfp42.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;}
+
+.a{display: inline-block;}

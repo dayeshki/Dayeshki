@@ -1,0 +1,30 @@
+body{
+    background-image:url(hfp6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    fo
+    style:'calibri';
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+.a {display:inline-block
+    
+}
+.slides {
+    display: none;
+    width: 350px;
+    height: 350px;
+    margin-left: 0.5cm;
+    border-radius: 10px;
+}
+.active {
+    display: block;
+}
+
+@keyframes fade {
+    from { opacity: .4; }
+    to { opacity: 1; }
+}
